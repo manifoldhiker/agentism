@@ -1,3 +1,6 @@
+- **Link:** https://josiekins.xyz/prototheism
+- **Password:** mckennasyndromeisreal
+  
 ## Forking Prototheism
 
 Forking Prototheism involves adapting elements (whether minor or foundational) of the open-source religion to reflect personal beliefs and worldviews. This process involves modifying the provided texts, concepts, and aesthetic elements to create a personalized version of Prototheism. The following steps outline the technical aspects of forking the Prototheism repository on GitHub.
