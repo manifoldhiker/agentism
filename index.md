@@ -1,4 +1,5 @@
 ![prototheism](./img/protheism+josicore+logo.png)
+
 # Prototheism (v0.1)
 
 Prototheism is a comprehensive *open-source* religion that contains minimal delusion and superstition and is free of dogma. We aim to distill a prepackaged spiritual framework by identifying the consistent tenets foundational to most religions, which has resulted in a modifiable and self-aware system of belief.
@@ -9,24 +10,24 @@ Prototheism does not take itself too seriously and openly welcomes criticism, mo
 
 # Tenets
 
-![faith](./img/faith.png)
-### [Faith](./faith.md)
-![god](./img/god.png)
-### [God](./god.md)
-![creation](./img/creation.png)
-### [Creation](./creation.md)
-![identity](./img/identity.png)
-### [Identity](./identity.md)
-![death](./img/death.png)
-### [Death](./death.md)
-![suffering](./img/suffering.png)
-### [Suffering](./suffering.md)
-![reverance](./img/reverance.png)
-### [Reverance](./reverance.md)
-![morality](./img/morality.png)
-### [Morality](./morality.md)
-![purpose](./img/purpose.png)
-### [Purpose](./purpose.md)
+## [Faith](./faith.md)
+[![faith](./img/faith.png)](./faith.md)
+## [God](./god.md)
+  [![god](./img/god.png)](./god.md)]
+## [Creation](./creation.md)
+  [![creation](./img/creation.png)](./creation.md)
+## [Identity](./identity.md)
+  [![identity](./img/identity.png)](./identity.md)
+## [Death](./death.md)
+  [![death](./img/death.png)](./death.md)
+## [Suffering](./suffering.md)
+  [![suffering](./img/suffering.png)](./suffering.md)
+## [Reverence](./reverance.md)
+  [![reverence](./img/reverance.png)](./reverence.md)
+## [Morality](./morality.md)
+  [![morality](./img/morality.png)](./morality.md)
+## [Purpose](./purpose.md)
+[![purpose](./img/purpose.png)](./purpose.md)
 <hr>
 
 ## Etymology
