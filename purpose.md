@@ -19,13 +19,13 @@ Forking Prototheism involves adapting elements (whether minor or foundational) o
 
 - Create a GitHub Account: A GitHub account is required to fork the Prototheism repository. If an account is not already established, create a free account at GitHub.com.
 
-- Locate the Prototheism Repository: Navigate to the Prototheism repository using the provided link to the dedicated GitHub page.
+- Navigate to the [Prototheism repository](https://github.com/elliotec/prototheism) on GitHub.
 
 - Fork the Repository: Click the 'Fork' button located at the top right corner of the repository page. This action creates a personal copy of the Prototheism repository that can be modified independently.
 
-- Clone the Repository: To work on the forked version locally, clone the repository to your machine using the 'git clone' command followed by the repository URL.
+- Clone the Repository: To work on the forked version locally, clone the repository to your machine using the 'git clone' command on the command line followed by the repository URL, or using [Github's desktop app](https://github.com/apps/desktop).
 
-- Create a New Branch: Create a new branch for your personal modifications using the 'git checkout -b' command followed by the branch name. This allows you to work on your changes without affecting the original version.
+- Create a New Branch: Create a new branch for your personal modifications using the 'git checkout -b' command followed by the branch name, or via the app interface. This allows you to work on your changes without affecting the original version.
 
 ### 2. Customize Your Version
 
