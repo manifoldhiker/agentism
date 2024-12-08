@@ -1,4 +1,4 @@
-!(./img/god.png)[God]
+![God](./img/god.png)
 
 # God
 
