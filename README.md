@@ -1,6 +1,12 @@
 - **Link:** https://josiekins.xyz/prototheism
 - **Password:** mckennasyndromeisreal
-  
+
+_**Prototheism**_ is a comprehensive open-source religion that contains minimal delusion and superstition and is free of dogma. We aim to distill a prepackaged spiritual framework by identifying the consistent tenets foundational to most religions, which has resulted in a modifiable and self-aware system of belief.
+
+Despite the diverse mythologies present in traditional religions, they share many consistent tenets that transcend cultural and temporal boundaries. This universality suggests that people throughout history have pondered similar existential questions, often answering them with narratives constrained by their era's understanding. By identifying these universal tenets and replacing their varied mythological content with naturalism, rationality, and logic, we have begun the ongoing process of uncovering the original or primal religion embedded within the universe's structure. This is the foundation upon which all other religions are at least partially built.
+
+Prototheism does not take itself too seriously and openly welcomes criticism, mockery, and collaboration. By encouraging individuals to fork and modify Prototheism, the project invites a collaborative approach to spirituality, allowing for personal adaptation and community input.
+
 ## Forking Prototheism
 
 Forking Prototheism involves adapting elements (whether minor or foundational) of the open-source religion to reflect personal beliefs and worldviews. This process involves modifying the provided texts, concepts, and aesthetic elements to create a personalized version of Prototheism. The following steps outline the technical aspects of forking the Prototheism repository on GitHub.
