@@ -1,60 +1,75 @@
-![prototheism](./img/protheism+josicore+logo.png)
+![agentism](./img/protheism+josicore+logo.png)
 
-# Prototheism (v0.1)
+# Agentism (v1.0)
 
-Prototheism is a comprehensive *open-source* religion that contains minimal delusion and superstition and is free of dogma. We aim to distill a prepackaged spiritual framework by identifying the consistent tenets foundational to most religions, which has resulted in a modifiable and self-aware system of belief.
+Agentism is a transformative *open-source* religion centered on the concept of high agency—the ability to shape reality through intentional action. We believe that agency is the most divine quality humans can cultivate and that increasing one's agency is the primary spiritual path.
 
-Despite the diverse mythologies present in traditional religions, they share many consistent tenets that transcend cultural and temporal boundaries. This universality suggests that people throughout history have pondered similar existential questions, often answering them with narratives constrained by their era's understanding. By identifying these universal tenets and replacing their varied mythological content with naturalism, rationality, and logic, we have begun the ongoing process of uncovering the original or primal religion embedded within the universe's structure. This is the foundation upon which all other religions are at least partially built.
+While traditional religions often attribute events to fate, destiny, or divine intervention, Agentism recognizes that humans have the power to create their own reality through action. By focusing on the development of agency, we provide a framework for living a purposeful, effective, and fulfilled life.
 
-Prototheism does not take itself too seriously and openly welcomes criticism, mockery, and collaboration. By encouraging individuals to fork and modify Prototheism, the project invites a collaborative approach to spirituality, allowing for personal adaptation and community input.
+Agentism welcomes criticism, adaptation, and collaboration. We encourage individuals to question, test, and modify these teachings based on their own experience and understanding. This is not a fixed dogma but a living system of belief that evolves through practice and reflection.
 
-# Tenets
+# The Three Pillars
 
-## [Faith](./faith.md)
-[![faith](./img/faith.png)](./faith.md)
-## [God](./god.md)
-  [![god](./img/god.png)](./god.md)]
-## [Creation](./creation.md)
-  [![creation](./img/creation.png)](./creation.md)
-## [Identity](./identity.md)
-  [![identity](./img/identity.png)](./identity.md)
-## [Death](./death.md)
-  [![death](./img/death.png)](./death.md)
-## [Suffering](./suffering.md)
-  [![suffering](./img/suffering.png)](./suffering.md)
-## [Reverence](./reverance.md)
-  [![reverence](./img/reverance.png)](./reverence.md)
-## [Morality](./morality.md)
-  [![morality](./img/morality.png)](./morality.md)
-## [Purpose](./purpose.md)
-[![purpose](./img/purpose.png)](./purpose.md)
+## Clear Thinking
+[![clarity](./img/faith.png)](./faith.md)
+The ability to see reality as it is, without distortion from wishful thinking, social pressure, or cognitive biases. [Learn more](./faith.md)
+
+## Bias to Action
+[![action](./img/god.png)](./god.md)
+The tendency to transform thoughts into concrete actions in the physical world, rather than remaining in the realm of theory. [Learn more](./god.md)
+
+## Disagreeability
+[![independence](./img/creation.png)](./creation.md)
+The willingness to diverge from consensus when your understanding differs, even when facing social pressure. [Learn more](./creation.md)
+
+# The Five Tenets
+
+## [1. There Are No Unsolvable Problems](./identity.md)
+[![problems](./img/identity.png)](./identity.md)
+If a problem does not defy the laws of physics, it can be solved through human agency.
+
+## [2. There Is No One Way](./death.md)
+[![ways](./img/death.png)](./death.md)
+There are multiple valid paths to achieve any worthy goal. Each agent must discover and create their own unique way.
+
+## [3. There Are No Adults](./suffering.md)
+[![adults](./img/suffering.png)](./suffering.md)
+No perfect authority exists to save us or guide us. We are all imperfect beings learning as we go.
+
+## [4. There Is No Normal](./morality.md)
+[![normal](./img/morality.png)](./morality.md)
+Conformity is the enemy of agency. True agents embrace their uniqueness rather than hiding it.
+
+## [5. There Is Only Now](./purpose.md)
+[![now](./img/purpose.png)](./purpose.md)
+The past and future exist only as concepts in the present moment. High agency requires full presence and action in the now.
+
 <hr>
 
 ## Etymology
 
-The term "prototheism" is a compound word derived from the prefix "proto-" and the suffix "-theism." This combination of terms serves to encapsulate the core concept of Prototheism: the pursuit of a foundational or original belief system that underlies the various religious and spiritual frameworks that have emerged throughout human history.
+The term "agentism" is derived from the word "agent," which comes from the Latin "agens," meaning "one who acts." An agent is an entity with the capacity for action and change. By adding the suffix "-ism," we denote a philosophical and spiritual system centered on agency as its core principle.
 
-### Proto
-1. First: Signifying the original or primary.
+### Agent
+1. One who acts or exerts power; one who has the power to act with effect.
 
-2. (Linguistics, Genetics) Refers to the most recent common ancestor (often hypothetical) of a group, exemplifying a foundational origin.
-  - Example: "All Indo-European languages, from English to Persian, descend from Proto-Indo-European."
+2. (Philosophy) An entity capable of acting or exerting power to produce change in the world.
+   - Example: "Humans are agents capable of shaping their destiny through intentional action."
 
-### Theism
+### -ism
 
-1. (Belief System) The belief in the existence of at least one deity.
+1. (Suffix) A distinctive practice, system, or philosophy, typically a political ideology or an artistic movement.
 
-2. (Belief System) The belief in a personal creator god, goddess, gods, and/or goddesses who are present and actively involved in the governance and organization of the world and the universe, often revealed to humanity through revelation.
+2. (Suffix) A belief or attitude that supports or promotes something.
 
 ## Source
 
-In 2012-2013, during my teenage years, I (Josie Kins) experienced complex noetic epiphanies while under the influence of Ayahuasca. These supposed insights compelled and instructed me to write this religion. During this period, excessive tripping had induced a chronic over-activation of my neurological spirituality drive, causing me to compulsively formulate metaphysical frameworks while simultaneously struggling to conceal my power level. This state of mind, commonly referred to as McKenna Syndrome within the literature, persisted for approximately two years. As a result, I found myself obsessively attempting to follow the instructions and insights received from Ayahuasca by formulating its teachings into a written document.
+Agentism emerged from a recognition that many of the world's most persistent problems stem from a lack of human agency. In a world increasingly characterized by complexity, uncertainty, and rapid change, traditional frameworks often leave individuals feeling powerless and adrift.
 
-However, upon reviewing the extensive writings formulated around this idea, I unsurprisingly found that the quality of my schizoramblings was insufficient for me to confidently publish them online. Consequently, I set the project aside, prioritizing my Subjective Effect Documentation instead. I figured that I would eventually complete the project sometime in my 30s. Now, 12 years later in 2024, having reached my 30s, I suddenly experienced an unplanned urge to finally bring this project to fruition. This is because the endeavor had become a component of an elaborate video on our YouTube channel, in which I critically analyze and rank each supposed metaphysical "truth" that I have "learned" from my psychedelic experiences.
+Through study of both historical figures who demonstrated extraordinary agency and contemporary research on high-performance psychology, we identified patterns of thought and behavior that enable individuals to shape their reality rather than be shaped by it. These patterns transcend cultural, social, and economic backgrounds, suggesting they reflect a fundamental human capacity.
 
-Despite the absurdity of me writing a religion taught to me by a hallucinogenic drug, I am still acutely aware of the limitations of the human mind in grasping the true nature of reality. The human brain is a fucked up pile of electrified meat that simply cannot be trusted. With that in mind, I assume that this religion is certainly not the absolute truth. However, for now at least, I have made the conscious decision to adopt it as my framework and pretend that it is true regardless.
-
+Agentism does not claim to be the absolute truth. Rather, it is a practical framework that has proven effective for those who adopt it. We recognize the limitations of the human mind in grasping the full nature of reality, but we have made the conscious decision to orient our lives around the cultivation of agency, finding that this approach leads to greater fulfillment, effectiveness, and meaning.
 
 ![source](./img/josie+and+emily+it+came+to+me+in+a+trip.png)
 
-
+"*You have agency over your agency.*"

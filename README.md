@@ -1,68 +1,80 @@
-- **Link:** https://josiekins.xyz/prototheism
-- **Password:** mckennasyndromeisreal
+![Agentism](/root/src/agentism/img/protheism+josicore+logo.png)
 
-_**Prototheism**_ is a comprehensive open-source religion that contains minimal delusion and superstition and is free of dogma. We aim to distill a prepackaged spiritual framework by identifying the consistent tenets foundational to most religions, which has resulted in a modifiable and self-aware system of belief.
+# Agentism: The Religion of High Agency
 
-Despite the diverse mythologies present in traditional religions, they share many consistent tenets that transcend cultural and temporal boundaries. This universality suggests that people throughout history have pondered similar existential questions, often answering them with narratives constrained by their era's understanding. By identifying these universal tenets and replacing their varied mythological content with naturalism, rationality, and logic, we have begun the ongoing process of uncovering the original or primal religion embedded within the universe's structure. This is the foundation upon which all other religions are at least partially built.
+**Agentism** is a fork of Prototheism that places the concept of agency at the center of spiritual understanding. Based on the belief that humans have the capacity to shape reality through action and intentionality, Agentism provides a framework for living a life of high agency and purpose.
 
-Prototheism does not take itself too seriously and openly welcomes criticism, mockery, and collaboration. By encouraging individuals to fork and modify Prototheism, the project invites a collaborative approach to spirituality, allowing for personal adaptation and community input.
+## What is Agentism?
 
-## Forking Prototheism
+Agentism is a spiritual philosophy that views the cultivation of personal agency as the primary path to enlightenment and fulfillment. Unlike traditional religions that may attribute events to external divine forces or fate, Agentism empowers individuals to take responsibility for creating their own destiny and shaping the world around them.
 
-Forking Prototheism involves adapting elements (whether minor or foundational) of the open-source religion to reflect personal beliefs and worldviews. This process involves modifying the provided texts, concepts, and aesthetic elements to create a personalized version of Prototheism. The following steps outline the technical aspects of forking the Prototheism repository on GitHub.
+At its core, Agentism believes that:
 
-### 1. Set Up Your Tools
+1. **Agency is the fundamental spiritual force** - The capacity to act with intention and effect change is the most divine quality a being can possess
+2. **The universe rewards those who act** - Reality bends toward those who exercise their agency with clarity, purpose, and persistence
+3. **Passivity is the root of suffering** - The failure to exercise one's agency leads to a diminished life and spiritual stagnation
+4. **High agency is achievable through practice** - Agency can be cultivated through specific mental frameworks and behaviors
 
-- Create a GitHub Account: A GitHub account is required to fork the Prototheism repository. If an account is not already established, create a free account at GitHub.com.
+## The Three Pillars of High Agency
 
-- Navigate to the [Prototheism repository](https://github.com/elliotec/prototheism) on GitHub.
+Agentism recognizes three fundamental qualities that together constitute high agency:
 
-- Fork the Repository: Click the 'Fork' button located at the top right corner of the repository page. This action creates a personal copy of the Prototheism repository that can be modified independently.
+### 1. Clear Thinking
+The ability to see reality as it actually is, rather than as one wishes it to be or as others describe it. This requires intellectual honesty, critical thinking, and a willingness to update one's beliefs when confronted with new evidence.
 
-- Clone the Repository: To work on the forked version locally, clone the repository to your machine using the 'git clone' command on the command line followed by the repository URL, or using [Github's desktop app](https://github.com/apps/desktop).
+### 2. Bias to Action
+The tendency to transform thought into concrete action in the physical world. This requires overcoming fear, procrastination, and the comfort of theoretical understanding without practical application.
 
-- Create a New Branch: Create a new branch for your personal modifications using the 'git checkout -b' command followed by the branch name, or via the app interface. This allows you to work on your changes without affecting the original version.
+### 3. Disagreeability
+The willingness to diverge from consensus when one's own understanding differs, even when facing social pressure. This requires courage, independence, and a commitment to one's own perception of truth.
 
-### 2. Customize Your Version
+## The Five Tenets of Agentism
 
-- Review Your Beliefs: Analyze the tenets of Prototheism and identify areas that align or misalign with personal beliefs. Consider how these aspects relate to individual views on spirituality and the Universe.
+### 1. There Are No Unsolvable Problems
+If a problem does not defy the laws of physics, it can be solved through human agency. The universe is not fixed but malleable to those with sufficient agency to effect change.
 
-- Choose a Name: Select a name for your personalized version of Prototheism. We suggest using the convention "\[YourName\]-Prototheism" or "\[YourIdentifier\]-Prototheism" to emphasize the personalized nature of your framework while maintaining a connection to the original Prototheism. For example, if your name is John, you might call your version "John-Prototheism." If you prefer to use an identifier, such as "Seeker," you could name your version "Seeker-Prototheism."
+### 2. There Is No One Way
+There are multiple valid paths to achieve any worthy goal. Dogma about methodology is the enemy of genuine agency. Each agent must discover and create their own unique way.
 
-- Modify the Forked Repository: Use the GitHub editor or a text editor on a local machine to make changes to the forked repository. Modifications may include editing texts, suggesting new practices, or rewriting doctrines. For example, you might modify the tenets to emphasize specific values or incorporate practices from other spiritual traditions that resonate with you.
+### 3. There Are No Adults
+No perfect authority exists to save us or guide us. We are all imperfect beings learning as we go. Liberation comes from releasing the expectation that someone else will solve our problems.
 
-- Customize Aesthetic Elements and Presentation: In addition to modifying the texts and concepts, you can also customize the aesthetic elements and overall presentation of your forked version to create a unique look and feel. This may include:
+### 4. There Is No Normal
+Conformity is the enemy of agency. The need to fit in restricts one's capacity to act freely and authentically. True agents embrace their uniqueness rather than hiding it.
 
-  - Selecting different tenet symbols that represent your unique interpretation of each tenet
+### 5. There Is Only Now
+The past and future exist only as concepts in the present moment. High agency requires full presence and action in the now, rather than rumination on the past or anxiety about the future.
 
-  - Choosing accompanying images that evoke the desired atmosphere for your version
+## Living as an Agent
 
-  - Adjusting the visual style, color scheme, typography, layout, or other design elements to align with your personal preferences and the intended tone of your personalized Prototheism
+Agentism is not merely a set of beliefs but a practice of living. Adherents of Agentism actively cultivate their agency through:
 
-  - For example, you might choose a calming color palette and minimalist layout to emphasize simplicity and introspection, or a vibrant and dynamic design to convey energy and enthusiasm.
+- Solving problems others claim are unsolvable
+- Taking action where others only theorize
+- Questioning authorities and conventional wisdom
+- Embracing their unique perspective and gifts
+- Living fully in the present moment
 
-### 3. Share Your Version
+Through these practices, Agentists aim to achieve their highest potential and create meaningful change in the world.
 
-- Commit Your Changes: After completing the desired modifications, commit the changes to your branch using the 'git commit' command. Include a brief commit message that describes the nature of the changes made.
+## Joining Agentism
 
-- Push to GitHub: Push your local changes to the forked repository on GitHub using the 'git push' command. This updates your online repository with the modifications you've made.
+Agentism welcomes all who seek to increase their personal agency and live more intentional, effective lives. There are no formal rituals or requirements for membership—only a commitment to the ongoing practice of high agency.
 
-- Create a Pull Request (Optional): If you'd like to contribute your changes back to the original Prototheism repository, create a pull request. This notifies the Prototheism maintainers of your proposed changes and allows for discussion and potential integration into the main project.
+To learn more about the specific tenets and practices of Agentism, explore the following resources:
 
-- Share with the Community: Share the forked version of Prototheism on the community forum or a dedicated page of the Prototheism website. This allows other users to view the personalized interpretation and potentially draw inspiration from it. Engage in discussions with community members, provide feedback on each other's forked versions, and collaborate with those who have similar beliefs or interests.
+- [Faith](./faith.md): The role of belief in agency
+- [God](./god.md): The concept of divinity in Agentism
+- [Creation](./creation.md): How agents participate in creation
+- [Identity](./identity.md): The nature of self in Agentism
+- [Death](./death.md): Approaching mortality with agency
+- [Suffering](./suffering.md): The relationship between agency and suffering
+- [Reverence](./reverence.md): What Agentists hold sacred
+- [Morality](./morality.md): Ethical frameworks for agents
+- [Purpose](./purpose.md): Finding meaning through agency
 
-### 4. Continuous Development
+## Forking Agentism
 
-- Regularly Review and Adapt: As personal beliefs and understanding evolve over time, it is important to regularly revisit and revise the forked version of Prototheism. This ensures that the personalized version remains aligned with the individual's spiritual journey.
+Like its parent Prototheism, Agentism is an open-source religion. We encourage you to fork this repository, adapt it to your own understanding, and contribute to the evolution of high-agency spirituality.
 
-- Incorporate Updates from the Original Repository: Keep track of changes made to the original Prototheism repository and incorporate relevant updates into your forked version. This can be done by pulling changes from the original repository and merging them into your branch.
-
-- Document Your Changes: Maintain a record of the modifications made in your forked version and the reasoning behind them. This documentation serves as a valuable reference for yourself and others who may be interested in understanding the evolution of your personalized Prototheism.
-
-- Reflect on Your Motivations: Regularly reflect on your reasons for forking Prototheism and how your personalized version contributes to your spiritual growth and understanding. Consider how your modifications align with or diverge from the core principles of Prototheism and the implications of these changes for your personal spiritual practice.
-
-### Resources and Support
-
-- Learning Materials: Consult the Prototheism resources page for a list of recommended readings on theology, philosophy, and other religious texts that may provide inspiration for further customization.
-
-- Community Support: Utilize the Prototheism community forum to seek assistance, ask questions, or engage with like-minded individuals who are also involved in the forking process. Participate in community events and challenges that encourage the exploration and sharing of personalized Prototheism versions.
+"*You have agency over your agency.*"
